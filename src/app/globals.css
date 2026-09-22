@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+body {
+  background-color: #050505;
+  color: white;
+  background-image: radial-gradient(circle at 50% -20%, #2a2a2a, #050505 50%);
+  background-attachment: fixed;
+}
