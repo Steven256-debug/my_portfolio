@@ -204,7 +204,7 @@ export default function Home() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.8, ...liquidSpring }}
-          className="absolute bottom-12 left-1/2 -translate-x-1/2 flex items-center gap-2 bg-black/20 backdrop-blur-3xl px-5 py-2 rounded-full text-white/90 text-xs font-semibold tracking-widest border border-white/20 shadow-[inset_0_1px_1px_rgba(255,255,255,0.3)]"
+          className="mt-16 sm:mt-24 mb-8 flex items-center gap-2 bg-black/20 backdrop-blur-3xl px-5 py-2 rounded-full text-white/90 text-xs font-semibold tracking-widest border border-white/20 shadow-[inset_0_1px_1px_rgba(255,255,255,0.3)]"
         >
           SCROLL <ArrowDown className="w-3 h-3 animate-bounce" />
         </motion.div>
