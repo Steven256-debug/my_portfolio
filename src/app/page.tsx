@@ -27,8 +27,8 @@ const projects = [
     repo: "https://github.com/Steven256-debug/omnisync-momo-reconciliation"
   },
   {
-    name: "MediChain (AWS GenAI Hackathon - 3rd Place)",
-    description: "AI-powered patient health records platform built on a full AWS backend utilizing Cognito, DynamoDB, Lambda, and Bedrock.",
+    name: "MediChain (AWS GenAI Hackathon)",
+    description: "🏆 Placed 3rd in the AWS GenAI Hackathon! Co-built an AI-powered patient health records platform in a team of 3, engineering the full AWS backend (Cognito, DynamoDB, Lambda, and Bedrock).",
     tags: ["AWS Bedrock", "GenAI", "HealthTech"],
     repo: "#"
   },
