@@ -33,10 +33,34 @@ const projects = [
     repo: "#"
   },
   {
-    name: "Machine Learning Projects",
-    description: "Developed a Credit Card Fraud classification model, Diabetes risk prediction model, and a California Housing Price regression model.",
-    tags: ["Python", "Pandas", "Scikit-learn"],
-    repo: "#"
+    name: "Credit Card Fraud Detection",
+    description: "Developed a robust classification model to identify fraudulent credit card transactions using Scikit-learn and Pandas.",
+    tags: ["Python", "Pandas", "Scikit-learn", "Machine Learning"],
+    repo: "https://github.com/Steven256-debug/Credit-card-fraud-detection"
+  },
+  {
+    name: "Diabetes Classification",
+    description: "Machine learning model designed for early risk prediction and classification of diabetes.",
+    tags: ["Python", "Machine Learning", "Data Science"],
+    repo: "https://github.com/Steven256-debug/Diabetes-Classification"
+  },
+  {
+    name: "Pulse Check API",
+    description: "A robust and scalable backend REST API service built with Go for health metrics and monitoring.",
+    tags: ["Go", "REST API", "Backend"],
+    repo: "https://github.com/Steven256-debug/Pulse-Check-API"
+  },
+  {
+    name: "Messiah Montessori School Portal",
+    description: "A modern web portal for Messiah Montessori School developed using React and Next.js.",
+    tags: ["React", "Next.js", "Web Development"],
+    repo: "https://github.com/Steven256-debug/Messiah-Montessori-School"
+  },
+  {
+    name: "Nexus POS System",
+    description: "A comprehensive point-of-sale (POS) system built in Python for inventory management and sales processing.",
+    tags: ["Python", "Desktop App", "POS System"],
+    repo: "https://github.com/Steven256-debug/Nexus_POS"
   }
 ];
 
