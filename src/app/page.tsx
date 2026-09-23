@@ -34,32 +34,32 @@ const projects = [
   },
   {
     name: "Credit Card Fraud Detection",
-    description: "Developed a robust classification model to identify fraudulent credit card transactions using Scikit-learn and Pandas.",
-    tags: ["Python", "Pandas", "Scikit-learn", "Machine Learning"],
+    description: "A machine learning classification model designed to detect fraudulent credit card transactions on highly imbalanced datasets.",
+    tags: ["Python", "Pandas", "Scikit-learn"],
     repo: "https://github.com/Steven256-debug/Credit-card-fraud-detection"
   },
   {
     name: "Diabetes Classification",
-    description: "Machine learning model designed for early risk prediction and classification of diabetes.",
-    tags: ["Python", "Machine Learning", "Data Science"],
-    repo: "https://github.com/Steven256-debug/Diabetes-Classification"
+    description: "Medical machine learning model predicting diabetes risk from patient health data using advanced classification algorithms.",
+    tags: ["Machine Learning", "Healthcare", "Python"],
+    repo: "https://github.com/Steven256-debug/Diabetes-Classification."
   },
   {
     name: "Pulse Check API",
-    description: "A robust and scalable backend REST API service built with Go for health metrics and monitoring.",
-    tags: ["Go", "REST API", "Backend"],
+    description: "A robust API service built for system health monitoring and diagnostic telemetry.",
+    tags: ["API Development", "Backend", "Systems"],
     repo: "https://github.com/Steven256-debug/Pulse-Check-API"
   },
   {
-    name: "Messiah Montessori School Portal",
-    description: "A modern web portal for Messiah Montessori School developed using React and Next.js.",
-    tags: ["React", "Next.js", "Web Development"],
+    name: "Messiah Montessori School Platform",
+    description: "Comprehensive educational platform and management system designed for Messiah Montessori School.",
+    tags: ["Full-Stack", "Web Development", "Education"],
     repo: "https://github.com/Steven256-debug/Messiah-Montessori-School"
   },
   {
-    name: "Nexus POS System",
-    description: "A comprehensive point-of-sale (POS) system built in Python for inventory management and sales processing.",
-    tags: ["Python", "Desktop App", "POS System"],
+    name: "Nexus POS",
+    description: "A modern Point of Sale (POS) system engineered for seamless transaction processing and inventory management.",
+    tags: ["POS System", "Software Engineering", "Database"],
     repo: "https://github.com/Steven256-debug/Nexus_POS"
   }
 ];
